@@ -1,1 +1,1 @@
-The project is to recognise the human face seen through webcam.We have used machine learning approach to classify the the elements in the face.
+The project is to recognise the human face seen through webcam.We have used machine learning approach to detect the face.The Haarcascade classifier is imported into the program which helps to classify the face.
